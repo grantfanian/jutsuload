@@ -1,7 +1,8 @@
 # jutsuload
 ### is a module and script for downloading videos from `jut.su` russian anime website
 anything may be broken, not work, burn your pc? :), etc  
-basic features are tested to work on few episodes
+basic features are tested to work on few episodes  
+tested on python 3.10.6 and requests 2.28.1
 ## Features
 Uses browser headers.  
 Can guess season and episode from URL (not all types are supported).  

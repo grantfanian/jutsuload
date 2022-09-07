@@ -1,7 +1,7 @@
 # jutsuload
 ### is a module and script for downloading videos from `jut.su` russian anime website
 anything may be broken, not work, burn your pc? :), etc  
-basic features are tested to work on few episodes  
+basic features are tested to work on few episodes 
 tested on python 3.10.6 and requests 2.28.1
 ## Features
 Uses browser headers.  
@@ -10,7 +10,7 @@ Downloader for videos, with progress functionality.
 Does not overwrite files.  
 Has small dependency list.
 And other non-mentioned from `--help`  
-(but episode lists don't work yet)
+Can download episode lists or few episodes from them.
 ## Promised 
 Implement installing it as a module;  
 todo in main.py
@@ -49,5 +49,5 @@ options:
 ```
 $ python main.py https://jut.su/yakusoku-neverland/season-2/episode-7.html -q worst --progress
 
-79.00MB, 39422.964KB/s           Done
+79.00MB, 3922.964KB/s           Done
 ```

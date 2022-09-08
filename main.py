@@ -8,7 +8,6 @@ import argparse
 
 
 # todo:
-#  episode list page mode (options are placeholders)
 #  alternative info source (there are other url formats and better sources on the page)
 #  film url processing
 #  interactive mode

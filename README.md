@@ -9,7 +9,7 @@ tested on python 3.10.6 and requests 2.28.1
 ## Features
 
 Uses browser headers.  
-Can guess season and episode from URL (not all types are supported).  
+Guesses season and episode from URL (not all types are supported).  
 Downloader for videos, with progress functionality.  
 Does not overwrite files.  
 Has small dependency list.
